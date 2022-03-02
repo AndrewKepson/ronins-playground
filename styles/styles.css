@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+}
+
+main {
+    height: 100%;
+}
+
+.upper {
+    height: 50%;
+    background-color: rgb(78, 175, 78);
+}
+
+.lower {
+    height: 50%;
+    background-color: rgb(245, 245, 105);
+}
+
+.header-wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+.upper-content {
+    width: 100%;
+    padding: 2.5rem 3rem;
+}
